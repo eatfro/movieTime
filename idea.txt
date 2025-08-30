@@ -34,7 +34,21 @@ goal : dective solve murder
   obstancle: rasit police department
   on compromise : new evidence proves the the man that was convicted did not do it   . 
   
+  goal : dective win back his wife and kids 
+  obstancle: his job 
+  on compromise : he love bring justice to family in need. 
 
+  goal : solve one be shoot to death
+  obstancle : mulitple street angle that don't give good shooting angles
+  on compromise : the killing are making the News , his bosses are trying to make people find safe again..
+  
+goal : solve a burgle / murder 
+obstancle : on eye witness, no finger prints 
+on compromise : they stole money and top secter information ...
+
+goal : solve a murder poison case 
+obstancle: the kill didn't phyical , kill by pills they were taking
+on compromise : 
 
 
 
